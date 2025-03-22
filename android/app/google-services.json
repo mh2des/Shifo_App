@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "285799025320",
+    "project_id": "shifo-app",
+    "storage_bucket": "shifo-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285799025320:android:1ad76a5071c86d1619109d",
+        "android_client_info": {
+          "package_name": "com.example.shifo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8Bi1aOey9qTvMGJO3DKAqmEGS5N0CaLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
